@@ -81,6 +81,7 @@ The lead is to be named. A person signs for every result.
 |---|---|
 | [AGENTS.md](AGENTS.md) | guide for AI agents working here ([CLAUDE.md](CLAUDE.md) points Claude Code to it) |
 | [notes/scouting-2026-10-19.md](notes/scouting-2026-10-19.md) | the research so far, with sources |
+| [notes/reports/](notes/reports/README.md) | the complete scouting reports, kept as written, and the fact-check |
 | [.github/](.github/) | pull request template and task form |
 
 ## Licence
