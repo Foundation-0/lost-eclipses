@@ -1,0 +1,27 @@
+{
+    "creators": [
+        {
+            "name": "Arifuddin, Ahraz"
+        }
+    ],
+    "title": "lost-eclipses",
+    "description": "<p>This repository will compare eclipsing binaries catalogued from old photographic plates with TESS light curves, flag stars whose eclipses have gone, and check the strongest cases on the old plates.</p><p>Status: not started. No flags or results from this project are present yet.</p><p>Directed by Ahraz Arifuddin</p><p>Researched and verified by different model families across Gemini, Claude, Grok, OpenAI, and Muse</p>",
+    "upload_type": "software",
+    "license": "Apache-2.0",
+    "keywords": [
+        "astronomy",
+        "dasch",
+        "eclipsing-binaries",
+        "foundation0",
+        "tess",
+        "variable-stars"
+    ],
+    "related_identifiers": [
+        {
+            "identifier": "https://github.com/Foundation-0/lost-eclipses",
+            "relation": "isSupplementTo",
+            "scheme": "url",
+            "resource_type": "software"
+        }
+    ]
+}
